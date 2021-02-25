@@ -10,3 +10,7 @@ menjalankan proses berulang (periodic/scheduler task).
 membutuhkan proses menjalankan sebuah background service setiap kali aplikasi selesai
 melakukan booting. Aplikasi harus bisa menerima obyek broadcast yang dikirimkan oleh
 sistem Android untuk event booting tersebut.
+
+#### Hasil :
+![Alt Text]()
+![Alt Text]()
